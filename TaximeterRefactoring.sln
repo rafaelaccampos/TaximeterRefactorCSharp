@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaximeterRefactoring", "TaximeterRefactoring\TaximeterRefactoring.csproj", "{89B3D04D-4B49-484B-BBCC-474951D18907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaximeterRefactoring.UnityTests", "TaximeterRefactoring.UnityTests\TaximeterRefactoring.UnityTests.csproj", "{BE515524-0789-491E-88B3-FD3BD6E9307D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B3D04D-4B49-484B-BBCC-474951D18907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B3D04D-4B49-484B-BBCC-474951D18907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B3D04D-4B49-484B-BBCC-474951D18907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B3D04D-4B49-484B-BBCC-474951D18907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE515524-0789-491E-88B3-FD3BD6E9307D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE515524-0789-491E-88B3-FD3BD6E9307D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE515524-0789-491E-88B3-FD3BD6E9307D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE515524-0789-491E-88B3-FD3BD6E9307D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACEB929-39B0-4A38-BBD1-5C5C74785EB3}
+	EndGlobalSection
+EndGlobal
